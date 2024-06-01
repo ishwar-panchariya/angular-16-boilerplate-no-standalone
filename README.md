@@ -1,4 +1,4 @@
-# Angular16BoilerplateModuleBase
+# Angular 16 Boilerplate Code (Module Base / No Standalone)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.14.
 
